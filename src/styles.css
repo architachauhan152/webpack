@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.redtext {
+  color: red;
+}
+#navbar {
+  width: 100%;
+  height: 120px;
+}
+#navbar > img {
+  height: 100px;
+  width: 200px;
+}
+#idiv {
+  width: 200px;
+  height: 200px;
+}
